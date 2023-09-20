@@ -8,7 +8,7 @@ API hỗ trợ cho việc sử dụng từ xa và công cụ sử dụng.
 2. Giúp thay đổi proxy trên các thiết bị cứng mà không cần can thiệp. Thêm proxy và giả lập, mobile, các tool game cần thay đổi proxy liên tục mà không cần can thiệp vào.
 
 # Link Tải
- - Tải Về: [G-forwards-tool](https://github.com/2movn/G-forwards-tool/releases/download/4.0.0/forwards-tool-v4.zip)
+ - Tải Về: [G-forwards-tool](https://github.com/2movn/G-forwards-tool/releases/download/4.0.0/G-forwards-tool-v4.zip)
 # Cách sử dụng
 Để sử dụng công cụ bạn cần chuẩn bị trước proxy có thể kết nối internet và có định dạng socks5, socks4, http, Hoặc các Key, Api của 1 server như: Tinsoft Proxy, TM Proxy, Tin Proxy, ShopLike
 ## Sử dụng với proxy thường
