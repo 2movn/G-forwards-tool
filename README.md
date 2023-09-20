@@ -46,6 +46,31 @@ API hỗ trợ cho việc sử dụng từ xa và công cụ sử dụng.
 2. License: Kích hoạt công cụ để sử dụng toàn bộ tính năng
 3. API: Sử dụng api để điều khiển công cụ từ xa.
 ![G-forwards-tool](https://github.com/2movn/G-forwards-tool/blob/main/block.png?raw=true)
+# Ruler Block
+## Cài đặt hiển thị/Tắt log
+- File cài đặt: [...\G-forwards-tool\setting\log.ini]
+- Mặc định: 1 (Hiển thị Log) | Các số khác: Tắt log
+## Cài đặt Chặn website
+- File cài đặt chặn: [...\G-forwards-tool\setting\rules.txt]
+- Mặc định:
+```
+(?:.+\.)?google.*\.com
+(?:.+\.)?gstatic\.com
+(?:.+\.)?gmail\.com
+(?:.+\.)?ntp\.org
+(?:.+\.)?glpals\.com
+(?:.+\.)?akamai.*\.net
+(?:.+\.)?ggpht\.com
+(?:.+\.)?android\.com
+(?:.+\.)?gvt1\.com
+(?:.+\.)?youtube.*\.com
+(?:.+\.)?ytimg\.com
+(?:.+\.)?goo\.gl
+(?:.+\.)?youtu\.be
+(?:.+\.)?google\..+
+(?:.+\.)?iphey\.com
+```
+
 # API của công cụ:
 Chỉnh sửa port server tại : [...\G-forwards-tool\setting\port.ini] Mặc định: 3333.
  * Running on all addresses (0.0.0.0)
