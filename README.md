@@ -143,7 +143,15 @@ url = 'http://localhost:3333/start?id=all'
 - parameter: id
 ```
 //Reset đơn proxy
+
 url = 'http://localhost:3333/reset?id=[uuid]'
 //Reset toàn bộ proxy
 url = 'http://localhost:3333/reset?id=all'
 ```
+
+
+# Liên Hệ Hỗ trợ
+- Website: https://2movn.com
+- Mobile: 0869999635
+- TeleGram: https://t.me/mmovnofflical
+- Facebook: https://fb.com/2movn
